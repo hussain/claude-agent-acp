@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.96.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.95.0...v0.96.0) (2026-10-24)
+
+
+### Features
+
+* report SendMessage delegations as linked session messages ([#1424](https://github.com/agentclientprotocol/claude-agent-acp/issues/1424)) ([739dde3](https://github.com/agentclientprotocol/claude-agent-acp/commit/739dde3ae5bb848bdb90e2c9150e2cc4687d480c))
+
+
+### Bug Fixes
+
+* send subagents' current state after a load response ([#1423](https://github.com/agentclientprotocol/claude-agent-acp/issues/1423)) ([17a967b](https://github.com/agentclientprotocol/claude-agent-acp/commit/17a967b4dab78bbb9cf9fedae60e6821578dc5cb))
+
 ## [0.95.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.94.0...v0.95.0) (2026-10-23)
 
 
